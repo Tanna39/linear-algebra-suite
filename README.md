@@ -121,7 +121,7 @@ It provides an interactive way to understand:
 
 ## 📊 Example Workflow
 
-```text
+       text
 Input Matrix / Data
         ↓
 Select Numerical Method
@@ -137,8 +137,8 @@ Visualize Results
 
 ## 👨‍💻 Project
 
-**Project Name:** Numerical Methods Project — Linear Algebra Suite
+* **Project Name:** Numerical Methods Project — Linear Algebra Suite
 
-**Type:** Web-Based Numerical Analysis Tool
+* **Type:** Web-Based Numerical Analysis Tool
 
-**Purpose:** Educational and academic demonstration of numerical methods and linear algebra algorithms.
+* **Purpose:** Educational and academic demonstration of numerical methods and linear algebra algorithms.
