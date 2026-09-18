@@ -121,7 +121,7 @@ It provides an interactive way to understand:
 
 ## 📊 Example Workflow
 
-       text
+```text
 Input Matrix / Data
         ↓
 Select Numerical Method
